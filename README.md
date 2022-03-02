@@ -2,6 +2,7 @@
 # <p dir="rtl">
 فيديوهات الدرس</p>
 
+/Users/Jana/Documents/text edit .rtf
 
 
 <p dir="rtl">
